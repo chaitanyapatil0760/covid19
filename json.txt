@@ -1,0 +1,78 @@
+{
+	"contentMD5": "v/GunsV1Vh4KaOTWMV281w==",
+	"exists": true,
+	"itemName": "population_by_age.tsv.gz",
+	"itemType": "File",
+	"lastModified": "2024-11-12T12:35:28Z",
+	"size": 5986,
+	"structure": [
+		{
+			"name": "indic_de,geo\\time",
+			"type": "String"
+		},
+		{
+			"name": "2008 ",
+			"type": "String"
+		},
+		{
+			"name": "2009 ",
+			"type": "String"
+		},
+		{
+			"name": "2010 ",
+			"type": "String"
+		},
+		{
+			"name": "2011 ",
+			"type": "String"
+		},
+		{
+			"name": "2012 ",
+			"type": "String"
+		},
+		{
+			"name": "2013 ",
+			"type": "String"
+		},
+		{
+			"name": "2014 ",
+			"type": "String"
+		},
+		{
+			"name": "2015 ",
+			"type": "String"
+		},
+		{
+			"name": "2016 ",
+			"type": "String"
+		},
+		{
+			"name": "2017 ",
+			"type": "String"
+		},
+		{
+			"name": "2018 ",
+			"type": "String"
+		},
+		{
+			"name": "2019 ",
+			"type": "String"
+		}
+	],
+	"columnCount": 13,
+	"effectiveIntegrationRuntime": "AutoResolveIntegrationRuntime (Central India)",
+	"executionDuration": 0,
+	"durationInQueue": {
+		"integrationRuntimeQueue": 0
+	},
+	"billingReference": {
+		"activityType": "PipelineActivity",
+		"billableDuration": [
+			{
+				"meterType": "AzureIR",
+				"duration": 0.016666666666666666,
+				"unit": "Hours"
+			}
+		]
+	}
+}
